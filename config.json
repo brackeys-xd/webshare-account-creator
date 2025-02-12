@@ -1,0 +1,12 @@
+{
+  "ELEMENT_LOAD_WAIT_SEC": 30,
+  "DELAY_SEC": 5,
+  "EXTENSION_PATH": "extension.crx",
+  "DOWNLOAD_DIR": ".",
+  "FLASK_HOST": "127.0.0.1",
+  "FLASK_PORT": 5001,
+  "PROXY_UPDATE_INTERVAL_HOURS": 2,
+  "USE_UNDETECTED_CHROMEDRIVER": false,
+  "AUTH_IP": "",
+  "USE_PROXIES": false
+}

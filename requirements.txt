@@ -1,0 +1,8 @@
+Flask>=2.0.0
+APScheduler>=3.7.0
+selenium
+requests>=2.25.1
+numpy
+opencv-python
+undetected-chromedriver
+setuptools>=61.0
