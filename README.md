@@ -2,9 +2,8 @@
 
 Here's a demo of the script in action:
 
-<video src="result.mp4" width="640" height="480" controls>
-  Your browser does not support the video tag.
-</video>
+https://github.com/user-attachments/assets/efeda116-a6a9-421f-8da1-4f3b55ef40cd
+
 
 # Webshare Account Creator
 
